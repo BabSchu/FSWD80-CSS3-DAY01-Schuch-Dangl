@@ -1,14 +1,6 @@
-#authors {
-		font-style: italic;
-		}
-
-#date {
-	float: right;
-	}
-
 #header {
 	background: #081a24;
-}
+	}
 
 #headerheading {
 	margin: 0px;
@@ -17,7 +9,7 @@
 	padding-left: 20px;
 	font-family: verdana;
 	color: #61778c;
-}
+	}
 
 #navigation {
 	text-align: right;
