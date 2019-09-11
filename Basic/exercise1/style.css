@@ -1,0 +1,17 @@
+div {
+	border: 1px solid black;
+	margin: 5px;
+}
+
+#third > p {
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+#fifth {
+	display: none;
+}
+
