@@ -1,0 +1,18 @@
+#article {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	width: 30%;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(77, 73, 64);
+	color: #4d4940;
+	font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+summary, article {
+	text-align: justify;
+}
