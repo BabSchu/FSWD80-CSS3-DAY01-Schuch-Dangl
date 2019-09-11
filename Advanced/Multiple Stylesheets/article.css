@@ -1,0 +1,33 @@
+#authors {
+		font-style: italic;
+		}
+
+#date {
+	float: right;
+	}
+
+#article {
+	padding: 10px 30px 10px 30px;
+	width: calc(70% - 27px);
+	/*margin-left: 10px;
+	float: right;*/
+	margin-left: 10px;
+	display: table-cell;
+}
+
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(77, 73, 64);
+	color: #4d4940;
+	font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+summary, article {
+	text-align: justify;
+}
+
+summary {
+	font-weight: bold;
+}

@@ -1,0 +1,22 @@
+#sidebar {
+	padding: 12px;
+	width: calc(30% - 27px);
+	/*float: left;*/
+	background-color:  #081a24;
+	color: white;
+	display: table-cell;
+	}
+#sidebar li {
+	font-size: 25px;
+	font-family: arial;
+}
+
+#sidebar ul {
+	padding: 0 20px 0 20px;
+}
+
+#sidebar a {
+	color: white;
+	font-size: 20px;
+	}
+

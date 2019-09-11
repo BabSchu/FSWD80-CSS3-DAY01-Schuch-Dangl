@@ -1,0 +1,31 @@
+#authors {
+		font-style: italic;
+		}
+
+#date {
+	float: right;
+	}
+
+#header {
+	background: #081a24;
+}
+
+#headerheading {
+	margin: 0px;
+	text-align: left;
+	padding-top: 30px;
+	padding-left: 20px;
+	font-family: verdana;
+	color: #61778c;
+}
+
+#navigation {
+	text-align: right;
+	padding-bottom: 20px;
+	}
+
+#navigation a {
+	color: white;
+	font-size: 15px;
+	padding-right: 10px;
+	}
