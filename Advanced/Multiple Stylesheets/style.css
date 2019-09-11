@@ -1,0 +1,39 @@
+#navigation {
+	background: #081a24;
+	padding: 10px;
+	text-align: right;
+}
+
+#navigation a {
+	color: white;
+	font-size: 15px;
+}
+
+#sidebar {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	width: 33%;
+	float: left;
+}
+
+
+#article {
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	width: 60%;
+	float: right;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(77, 73, 64);
+	color: #4d4940;
+	font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+summary, article {
+	text-align: justify;
+}
